@@ -1,0 +1,9 @@
+{
+  "name": "@rainyzone/ame-ui",
+  "dependencies": {
+    "react": "^16.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^16"
+  }
+}
